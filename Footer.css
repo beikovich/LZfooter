@@ -1,0 +1,79 @@
+/* Footer start */
+
+
+footer {
+   border: 0.060vw solid #333333;
+   position: absolute;
+   width: 92.8528886242vw;
+   height: 0px;
+   left: 50%;
+   transform: translateX(-50%);
+}
+
+footer .container {
+   position: absolute;
+   display: flex;
+   width: 92.8528886242vw;
+   height: 12.031vw;
+   z-index: 0;
+}
+
+.footer__wrapper img {
+   position: absolute;
+   height: 1.549vw;
+   margin-top: 2.382vw;
+   left: 50%;
+   transform: translateX(-50%);
+
+
+}
+
+.footer__soc {
+   position: absolute;
+   display: flex;
+   height: 1.549vw;
+   width: 17.6vw;
+   margin-top: 3vw;
+   left: 52%;
+   transform: translateX(-52%);
+   cursor: pointer;
+   z-index: 2;
+}
+
+.footer__soc img{
+   position: absolute;
+   display: flex;
+   height: 1.1vw;
+
+}
+
+.footer__link {
+   position: relative;
+   margin-left: 2.9vw;
+   color: #FFFFFF;
+   text-transform: uppercase;
+   text-decoration: none; 
+   z-index: 2;
+
+   
+}
+
+footer p {
+   /* © Offchain Labs, Inc. 2022. All Rights Reserved. */
+   position: absolute;
+   width: 20.488vw;
+   height: 0.953vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 0.834vw;
+   line-height: 0.953vw;
+   text-transform: uppercase;
+   color: #A3A3A3;
+   left: 52%;
+   transform: translateX(-52%);
+   white-space: nowrap;
+   margin-top: 8.696vw;
+}
+
+/* Footer end */
