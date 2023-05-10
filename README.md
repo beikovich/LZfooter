@@ -1,1 +1,1 @@
-# LZfooter
+Footer of the test site
